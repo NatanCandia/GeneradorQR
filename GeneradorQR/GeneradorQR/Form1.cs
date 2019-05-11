@@ -15,8 +15,10 @@ namespace GeneradorQR
         public Form1()
         {
             InitializeComponent();
-            //pictureBox1.Padding = new Padding(100, 10, 10, 10);
-
+            if (Clipboard.ContainsText(TextDataFormat.Text))
+            {
+                textBox1.Text = Clipboard.GetText();
+            }
             textBox1.Focus();
 
         }
@@ -34,6 +36,11 @@ namespace GeneradorQR
         private void TextBox1_TextChanged(object sender, EventArgs e)
         {
             TextToQR(textBox1.Text);
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
         }
     }
 }
