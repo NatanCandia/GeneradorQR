@@ -1,0 +1,12 @@
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\bin\Debug\GeneradorQR.exe.config
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\bin\Debug\GeneradorQR.exe
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\bin\Debug\GeneradorQR.pdb
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.csprojAssemblyReference.cache
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.Form1.resources
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.Properties.Resources.resources
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.csproj.GenerateResource.cache
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.csproj.CoreCompileInputs.cache
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.csproj.CopyComplete
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.exe
+C:\Users\Natan\Documents\GitHub\GeneradorQR\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.pdb
