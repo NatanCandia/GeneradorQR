@@ -15,12 +15,25 @@ namespace GeneradorQR
         public Form1()
         {
             InitializeComponent();
+            //pictureBox1.Padding = new Padding(100, 10, 10, 10);
+
+            textBox1.Focus();
+
         }
 
-        private void Button1_Click(object sender, EventArgs e)
+        private void TextToQR(string texto)
         {
             Zen.Barcode.CodeQrBarcodeDraw codigoQR = Zen.Barcode.BarcodeDrawFactory.CodeQr;
-            pictureBox1.Image = codigoQR.Draw(textBox1.Text, 50);
+            pictureBox1.Image = codigoQR.Draw(texto, 50, 5);
+        }
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Focus();
+        }
+
+        private void TextBox1_TextChanged(object sender, EventArgs e)
+        {
+            TextToQR(textBox1.Text);
         }
     }
 }
